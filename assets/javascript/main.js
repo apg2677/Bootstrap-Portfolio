@@ -1,4 +1,4 @@
-portfolioLinks = ["https://apg2677.github.io/TriviaGame/"];
+portfolioLinks = ["https://apg2677.github.io/unit-4-game/", "https://apg2677.github.io/TriviaGame/", "https://apg2677.github.io/Psychic-Game/"];
 var pIndex;
 
 $("document").ready(function() {
